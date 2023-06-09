@@ -1,0 +1,35 @@
+body {background:#ECE5C7;}
+
+img {position: absolute;
+    width: 380px;
+    height: 553px;
+    left: 550px;
+    top: 62px;}
+
+.box1 {position: absolute;
+    width: 380px;
+    height: 323px;
+    left: 550px;
+    right: 35.16%;
+    top: 450px;
+    background: #B3A19D;}
+
+    .box2 {height: 122px;
+        width: 251.7301025390625px;
+        left: 514px;
+        top: 543px;
+        }
+
+    small {font-size: 14px; color: #354259;
+        height: 122px;
+        width: 251.7301025390625px;
+        left: 514px;
+        top: 543px;
+        }
+        .box3 {height: 35px;
+            width: 150px;
+            background: #ECE5C7;
+            }
+        button {color: #354259; font-size: 15px; width: 150px;
+            height: 35px;background: #ECE5C7; border: solid #ECE5C7;
+            }
